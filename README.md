@@ -1,1 +1,1 @@
-# sakura-nRF52840
+# Kimiro-nRF52840
