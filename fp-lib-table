@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Sakura-library")(type "KiCad")(uri "${KIEN242}/tool/Sakura/Lib/Sakura-library.pretty")(options "")(descr ""))
+)
