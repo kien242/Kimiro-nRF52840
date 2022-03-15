@@ -1,4 +1,4 @@
-20236294958079359
+20237942298756919
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56671,6 +56671,13 @@ solder_jumper
 0
 2
 2
+Kimiro-library
+Conn_1x01
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+1
+1
 Kimiro-library
 Conn_1x04_P2.54mm
 Through hole straight pin header, 1x04, 2.54mm pitch, single row

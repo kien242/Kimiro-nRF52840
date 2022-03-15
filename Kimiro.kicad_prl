@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 36,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -57,15 +57,16 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36
     ],
-    "visible_layers": "7fdfcff_80000001",
+    "visible_layers": "7fcfcff_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Sakura.kicad_prl",
+    "filename": "Kimiro.kicad_prl",
     "version": 3
   },
   "project": {
