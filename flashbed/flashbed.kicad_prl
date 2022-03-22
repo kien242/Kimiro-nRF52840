@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -36,6 +36,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -61,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "7fc7cff_80000001",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Kimiro.kicad_prl",
+    "filename": "flashbed.kicad_prl",
     "version": 3
   },
   "project": {

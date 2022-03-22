@@ -1,4 +1,4 @@
-20237942298756919
+20239599018391101
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56692,6 +56692,13 @@ Through hole pin header THT 1x13 2.54mm single row
 0
 13
 13
+Kimiro-library
+breakaway-mousebites
+
+
+0
+0
+0
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
