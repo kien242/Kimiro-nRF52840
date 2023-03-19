@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "Kimiro-library")(type "KiCad")(uri "C:/Users/kien2/Desktop/Kimiro-nRF52840/PCB/Library.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "Kimiro-library")(type "KiCad")(uri "C:/Users/kien242/Desktop/Kimiro-nRF52840/PCB/Library.pretty")(options "")(descr ""))
 )
